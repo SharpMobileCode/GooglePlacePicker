@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.sharpmobilecode.googleplacepicker" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="16" />
+	<application android:label="GooglePlacePicker.Droid">
+    <!-- Put your Google Maps V2 API Key here. -->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_API_KEY_HERE" />
+    <!-- End of Google Maps V2 API Key. -->
+  </application>
+</manifest>
